@@ -1,0 +1,51 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kxr224",
+      "name": "cyrus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28681083?v=4",
+      "profile": "https://github.com/kxr224",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "songjiabin",
+      "name": "宋佳宾",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13177100?v=4",
+      "profile": "https://github.com/songjiabin",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ligui-iOS",
+      "name": "ligui-iOS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20856361?v=4",
+      "profile": "https://github.com/ligui-iOS",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "laiiihz",
+      "name": "LAIIIHZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35956195?v=4",
+      "profile": "http://laiiihz.github.io",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "FlutterTencentImPlugin",
+  "projectOwner": "JiangJuHong",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
